@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sumitghughtyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitghughtyal" height="30" width="40" /></a>
+<a href="https://github.com/SumitGhughtyal/SumitGhughtyal/blob/main/giphy%202.gif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitghughtyal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumit ghughtyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit ghughtyal" height="30" width="40" /></a>
 <a href="https://instagram.com/sumit.ghughtyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit.ghughtyal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sumit_ghughtyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit_ghughtyal" height="30" width="40" /></a>
