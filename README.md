@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Ghughtyal</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 - 🌱 I’m currently learning **Kotlin, Data Structures**
 
 - 💬 Ask me about **Android, UI-UX Design**
