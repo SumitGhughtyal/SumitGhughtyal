@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE" alt="Sumit Ghughtyal Banner">
+  <img src="./banner.gif" alt="Sumit Ghughtyal Banner">
 </p>
 
 <div align="center">
